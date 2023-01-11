@@ -1,0 +1,359 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;800;900&display=swap');
+
+/*PÁGINA 01*/
+
+#secao1{
+	background-image: linear-gradient(to bottom right, #62D9FF, #042393);
+	
+}
+
+	/*PÁGINA GRANDE*/
+	header{
+		margin-bottom: 16px;
+	}
+
+
+	#navegacao{
+		font-family: 'Inter', sans-serif;
+	}
+
+	#logo{
+		font-family: 'Inter', sans-serif;
+		font-weight: bold;
+	}
+
+	#secao1{
+		height: 300px;
+	}
+	#nome{
+		text-align: center;
+
+	}
+
+	#denis{
+		color: white;
+		font-family: 'Inter', sans-serif;
+		font-weight: bold;
+	}
+
+
+
+	#port{
+		color: #62D9FF;
+		font-family: 'Inter', sans-serif;
+		margin-top: 120px;
+		font-weight: bold;
+
+	}
+
+	#profissao{
+		color: white;
+		font-family: 'Inter', sans-serif;
+	}
+
+	#vejaMais{
+		margin-top: 30px;
+		opacity: 0.6;
+		font-family: 'Inter', sans-serif;
+	}
+
+	
+
+	/*PÁGINA DE CELULAR*/
+
+	@media (max-width: 575.98px) { 
+
+		header{
+			margin-bottom: 16px;
+		}
+
+
+		#navegacao{
+			font-family: 'Inter', sans-serif;
+		}
+
+		#logo{
+			font-family: 'Inter', sans-serif;
+			font-weight: bold;
+		}
+
+		#secao1{
+			height: 300px;
+		}
+		#nome{
+			text-align: center;
+
+		}
+
+		#denis{
+			color: white;
+			font-family: 'Inter', sans-serif;
+			font-weight: bold;
+			font-size: 3em;
+		}
+
+
+
+		#port{
+			color: #62D9FF;
+			font-family: 'Inter', sans-serif;
+			margin-top: 120px;
+			font-weight: bold;
+			font-size: 1em;
+		}
+
+		#profissao{
+			color: white;
+			font-family: 'Inter', sans-serif;
+			font-size: 0.6em;
+		}
+
+
+		#vejaMais{
+			margin-top: 30px;
+			opacity: 0.6;
+			font-family: 'Inter', sans-serif;
+		}
+
+
+}
+		/*TELEFONE MODO PAISAGEM*/
+
+		@media (min-width: 576px) and (max-width: 767.98px) { 
+
+			header{
+				margin-bottom: 16px;
+			}
+
+
+			#navegacao{
+				font-family: 'Inter', sans-serif;
+			}
+
+			#logo{
+				font-family: 'Inter', sans-serif;
+				font-weight: bold;
+			}
+
+			#secao1{
+				height: 300px;
+			}
+			#nome{
+				text-align: center;
+
+			}
+
+			#denis{
+				color: white;
+				font-family: 'Inter', sans-serif;
+				font-weight: bold;
+				font-size: 3em;
+			}
+
+
+
+			#port{
+				color: #62D9FF;
+				font-family: 'Inter', sans-serif;
+				margin-top: 120px;
+				font-weight: bold;
+				font-size: 1em;
+			}
+
+			#profissao{
+				color: white;
+				font-family: 'Inter', sans-serif;
+				font-size: 0.6em;
+			}
+
+
+			#vejaMais{
+				margin-top: 30px;
+				opacity: 0.6;
+				font-family: 'Inter', sans-serif;
+			}
+
+
+		}
+
+
+		// Dispositivos médios (tablets com 768px ou mais)
+		@media (min-width: 768px) and (max-width: 991.98px) { 
+
+			header{
+				margin-bottom: 16px;
+			}
+
+
+			#navegacao{
+				font-family: 'Inter', sans-serif;
+			}
+
+			#logo{
+				font-family: 'Inter', sans-serif;
+				font-weight: bold;
+			}
+
+			#secao1{
+				height: 300px;
+			}
+			#nome{
+				text-align: center;
+
+			}
+
+			#denis{
+				color: white;
+				font-family: 'Inter', sans-serif;
+				font-weight: bold;
+				font-size: 3em;
+			}
+
+
+
+			#port{
+				color: #62D9FF;
+				font-family: 'Inter', sans-serif;
+				margin-top: 120px;
+				font-weight: bold;
+				font-size: 1em;
+			}
+
+			#profissao{
+				color: white;
+				font-family: 'Inter', sans-serif;
+				font-size: 0.6em;
+			}
+
+
+			#vejaMais{
+				margin-top: 30px;
+				opacity: 0.6;
+				font-family: 'Inter', sans-serif;
+			}
+
+
+		}
+
+	// Dispositivos large (desktops com 992px ou mais)
+	@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+		header{
+			margin-bottom: 16px;
+		}
+
+
+		#navegacao{
+			font-family: 'Inter', sans-serif;
+		}
+
+		#logo{
+			font-family: 'Inter', sans-serif;
+			font-weight: bold;
+		}
+
+		#secao1{
+			height: 300px;
+		}
+		#nome{
+			text-align: center;
+
+		}
+
+		#denis{
+			color: white;
+			font-family: 'Inter', sans-serif;
+			font-weight: bold;
+			font-size: 3em;
+		}
+
+
+
+		#port{
+			color: #62D9FF;
+			font-family: 'Inter', sans-serif;
+			margin-top: 120px;
+			font-weight: bold;
+			font-size: 1em;
+		}
+
+		#profissao{
+			color: white;
+			font-family: 'Inter', sans-serif;
+			font-size: 0.6em;
+		}
+
+
+		#vejaMais{
+			margin-top: 30px;
+			opacity: 0.6;
+			font-family: 'Inter', sans-serif;
+		}
+
+
+
+	}
+
+
+	// Dispositivos extra large (desktops grandes com 1200px ou mais)
+	@media (min-width: 1200px) {
+
+		header{
+			margin-bottom: 16px;
+		}
+
+
+		#navegacao{
+			font-family: 'Inter', sans-serif;
+		}
+
+		#logo{
+			font-family: 'Inter', sans-serif;
+			font-weight: bold;
+		}
+
+		#secao1{
+			height: 300px;
+		}
+		#nome{
+			text-align: center;
+
+		}
+
+		#denis{
+			color: white;
+			font-family: 'Inter', sans-serif;
+			font-weight: bold;
+			font-size: 3em;
+		}
+
+
+
+		#port{
+			color: #62D9FF;
+			font-family: 'Inter', sans-serif;
+			margin-top: 120px;
+			font-weight: bold;
+			font-size: 1em;
+		}
+
+		#profissao{
+			color: white;
+			font-family: 'Inter', sans-serif;
+			font-size: 0.6em;
+		}
+
+
+		#vejaMais{
+			margin-top: 30px;
+			opacity: 0.6;
+			font-family: 'Inter', sans-serif;
+		}
+
+
+
+	}
+
+
+/*PÁGINA SOBRE MIM*/
